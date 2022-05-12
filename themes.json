@@ -498,16 +498,16 @@
     "homeurl": "https://github.com/obujor/jsonresume-theme-paper-it"
   },
   "83": {
-    "name": "jsonresume-theme-elephant",
-    "npm": "https://www.npmjs.com/package/jsonresume-theme-elephant",
-    "author": "Iman Akbari",
-    "homeurl": "https://github.com/blackvvine/jsonresume-theme-elephant"
-  },
-  "84": {
     "name": "jsonresume-theme-paperalt",
     "npm": "https://www.npmjs.com/package/jsonresume-theme-paperalt",
     "author": "matheuscal",
     "homeurl": "https://github.com/matheuscal/jsonresume-theme-paperalt#readme"
+  },
+  "84": {
+    "name": "jsonresume-theme-elephant",
+    "npm": "https://www.npmjs.com/package/jsonresume-theme-elephant",
+    "author": "Iman Akbari",
+    "homeurl": "https://github.com/blackvvine/jsonresume-theme-elephant"
   },
   "85": {
     "name": "jsonresume-theme-umennel",

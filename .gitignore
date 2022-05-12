@@ -129,3 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 /jsonresume-themes-installer.code-workspace
+/node_modules
