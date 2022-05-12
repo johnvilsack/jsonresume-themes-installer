@@ -1,0 +1,1 @@
+const THEMES = require('jsonresume-themes-feed').getThemes()
