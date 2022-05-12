@@ -9,7 +9,7 @@ process.on("message", theme => {
 
 
 async function installTheme(theme) {
-  execSync('npm install ' + theme.name)
+  //execSync('npm install ' + theme.name)
   console.log(theme.name)
   return {
     installTheme: installTheme
